@@ -44,7 +44,7 @@ SRE_Lab_Work/
 │   ├── Fucntional_requirements.md
 │   └── Non-Functional_requirements.md
 ├── Lab_5_SRS/
-│
+│   ├── SRS_Structure.md
 ├── Lab_6_Use_Case/
 │   ├── Use_Case_Diagram.drawio
 │   └── Use_Case_Specifications.docx
