@@ -1,6 +1,4 @@
-# Software Requirements Engineering - Lab 1
-## Introduction to Requirements Engineering Tools
-
+# Software Requirements Engineering Lab Works
 
 ### Group Information
 
@@ -14,20 +12,7 @@
 
 
 - **Course:** Software Requirements Engineering (SWEG3104)
-- **Lab:** Lab 1 - Introduction to Requirements Engineering Tools
-- **Date:** [Date]
-
-
-### Lab Objective
-To familiarize with commonly used requirements engineering tools and collaborative platforms.
-
-
-### Tools Installed (By All Group Members)
-- Microsoft Word
-- Draw.io
-- StarUML
-- GitHub
-
+- **Date:** July-20-2026
 
 ### Folder Structure
 
@@ -55,7 +40,9 @@ SRE_Lab_Work/
 │       └── Brainstorming_Session.png
 │
 ├── Lab_4_Requirements_Documentation/
-│
+|   ├── Categorized_requirements.md
+│   ├── Fucntional_requirements.md
+│   └── Non-Functional_requirements.md
 ├── Lab_5_SRS/
 │
 ├── Lab_6_Use_Case/
