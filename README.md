@@ -59,8 +59,15 @@ SRE_Lab_Work/
 │   ├── State_Diagrams/
 │
 ├── Lab_8_User_Stories/
+│   ├── Acceptance_Criteria_List.md
+│   ├── Product_log.md
+│   ├── User_Story_Document.md
+│   
 │
 ├── Lab_9_Prioritization/
+│   ├── Confilct_Resoultion.md
+│   ├── Feasibility_Analysis_Report.md
+│   ├── Prioritized_Requirement_List.md
 │
 ├── Lab_10_Validation/
 
