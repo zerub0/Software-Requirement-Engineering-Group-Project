@@ -46,7 +46,8 @@ SRE_Lab_Work/
 ├── Lab_5_SRS/
 │
 ├── Lab_6_Use_Case/
-│
+│   ├── Use_Case_Diagram.drawio
+│   └── Use_Case_Specifications.docx
 ├── Lab_7_UML/
 │
 ├── Lab_8_User_Stories/
