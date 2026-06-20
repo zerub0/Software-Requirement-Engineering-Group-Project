@@ -21,7 +21,11 @@ SRE_Lab_Work/
 │
 ├── Lab_1_Tools/
 │   ├── Screenshots/
-│   │   └── Folder_Structure.png
+│       └── Folder_Structure.png
+│       ├── Draw_io.jpg
+│       ├── GitHub.jpg
+│       ├── MicrosoftWord.jpg
+│       └── Star_UML.jpg
 │   ├── Diagrams/
 │   │   └── Sample_Diagram.drawio
 │   ├── Documents/
@@ -29,15 +33,15 @@ SRE_Lab_Work/
 │   └── Repository_Link.txt
 │
 ├── Lab_2_Stakeholders/
+│   ├── P_I_grid.jpg
+│   ├── Stakeholders_analysis_report.md
+│   ├── Stakeholder.md
 │
 ├── Lab_3_Elicitation/
-│   ├── Interview_Questions.docx
-│   ├── Questionnaire.docx
-│   ├── Interview_Summary_Report.docx
-│   ├── Elicited_Requirements_List.docx
-│   ├── Brainstorming_Output.docx
-│   └── Screenshots/
-│       └── Brainstorming_Session.png
+│   ├── Interview_questions.md
+│   ├── Questionnaire.md
+│   ├── sample_elicited_requirement.md
+│   ├── Brainstorm.md
 │
 ├── Lab_4_Requirements_Documentation/
 |   ├── Categorized_requirements.md
