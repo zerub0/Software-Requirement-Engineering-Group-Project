@@ -1,7 +1,6 @@
 # Software Requirements Engineering - Lab 1
 ## Introduction to Requirements Engineering Tools
 
----
 
 ### Group Information
 
@@ -18,12 +17,10 @@
 - **Lab:** Lab 1 - Introduction to Requirements Engineering Tools
 - **Date:** [Date]
 
----
 
 ### Lab Objective
 To familiarize with commonly used requirements engineering tools and collaborative platforms.
 
----
 
 ### Tools Installed (By All Group Members)
 - Microsoft Word
@@ -31,15 +28,14 @@ To familiarize with commonly used requirements engineering tools and collaborati
 - StarUML
 - GitHub
 
----
 
 ### Folder Structure
 
-```
+```text
 SRE_Lab_Work/
 │
 ├── Lab_1_Tools/
-│   ├── Screenshots/   
+│   ├── Screenshots/
 │   │   └── Folder_Structure.png
 │   ├── Diagrams/
 │   │   └── Sample_Diagram.drawio
@@ -48,21 +44,40 @@ SRE_Lab_Work/
 │   └── Repository_Link.txt
 │
 ├── Lab_2_Stakeholders/
+│
 ├── Lab_3_Elicitation/
+│   ├── Interview_Questions.docx
+│   ├── Questionnaire.docx
+│   ├── Interview_Summary_Report.docx
+│   ├── Elicited_Requirements_List.docx
+│   ├── Brainstorming_Output.docx
+│   └── Screenshots/
+│       └── Brainstorming_Session.png
+│
 ├── Lab_4_Requirements_Documentation/
+│
 ├── Lab_5_SRS/
+│
 ├── Lab_6_Use_Case/
+│
 ├── Lab_7_UML/
+│
 ├── Lab_8_User_Stories/
+│
 ├── Lab_9_Prioritization/
+│
 ├── Lab_10_Validation/
+│
 ├── Lab_11_Prototyping/
+│
 ├── Lab_12_NFR/
+│
 ├── Lab_13_Traceability/
+│
 ├── Lab_14_Change_Management/
+│
 ├── Lab_15_Metrics/
+│
 ├── Lab_16_Agile/
 │
 └── Final_Project/
-```
-
