@@ -53,23 +53,15 @@ SRE_Lab_Work/
 │   ├── Use_Case_Diagram.drawio
 │   └── Use_Case_Specifications.docx
 ├── Lab_7_UML/
+│   ├── Activity_Diagrams/
+│   ├── Context_Diagram/
+│   ├── Sequence_Dieagrams/
+│   ├── State_Diagrams/
 │
 ├── Lab_8_User_Stories/
 │
 ├── Lab_9_Prioritization/
 │
 ├── Lab_10_Validation/
-│
-├── Lab_11_Prototyping/
-│
-├── Lab_12_NFR/
-│
-├── Lab_13_Traceability/
-│
-├── Lab_14_Change_Management/
-│
-├── Lab_15_Metrics/
-│
-├── Lab_16_Agile/
-│
-└── Final_Project/
+
+
